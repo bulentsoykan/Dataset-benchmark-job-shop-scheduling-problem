@@ -1,4 +1,4 @@
-# JSPLIB
+# Dataset benchmark job shop scheduling problem
 
 Benchmark instances for the job-shop scheduling problem (minimizing makespan).
 
