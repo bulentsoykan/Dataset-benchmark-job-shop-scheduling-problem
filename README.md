@@ -2,6 +2,8 @@
 
 Benchmark instances for the job-shop scheduling problem (minimizing makespan).
 
+[Jobshop explanations](http://jobshop.jjvh.nl/explanation.php)
+
 ## Meta-data
 
 The file `instances.json` has meta-data of each instance as follows.
